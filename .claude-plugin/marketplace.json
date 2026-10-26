@@ -1,0 +1,13 @@
+{
+  "name": "beeblocks",
+  "owner": {
+    "name": "akshat99812"
+  },
+  "plugins": [
+    {
+      "name": "beeblocks",
+      "source": "./"
+    }
+  ],
+  "description": "beeBlocks: an agent + system dashboard mod for Claude Code"
+}
